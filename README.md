@@ -10,7 +10,8 @@
 3.perbedaan atribut title dan alt pada tag (IMG) adalah kalau atribut tittle itu untuk menentukan informasi tambahan tentang elemen sedangkan atribut alt untuk menentukan teks alternatif yang akan ditampilkan saat foto tidak dapat ditampilkan 
 
 4.agar foto proposional width dan height sebenernya harus diisi 2 2nya karena untuk mengimbangi posisi foto yang akan digunakan seperti 1 ini
-
+![Screenshot_7](https://user-images.githubusercontent.com/81457697/112717375-d2998780-8f1e-11eb-9022-2ef8a20287af.png)
+![Screenshot_8](https://user-images.githubusercontent.com/81457697/112717387-e5ac5780-8f1e-11eb-8c72-99e88f3f1e0d.png)
 
 5.yang akan terjadi adalah jika ditambahkan atribut target pada link 
 _blank=untuk membuka link ditab baru
