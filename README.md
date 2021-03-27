@@ -5,9 +5,9 @@
 ![Screenshot_14](https://user-images.githubusercontent.com/81457697/112711193-18dbf000-8ef9-11eb-982f-1660b51c99f2.png)
 1.iya ada kesalahan dan itu berwarna merah jadi tulisan yang ada di HTML tidak akan berubah
 
-2.perbedaan (<p>) dan <br> adalah kalau <p> untuk membuat sebuah elemen sebuah paragraph sedangkan <br> untuk berpindah ke baris selanjutnya
+2.perbedaan (P) dan (BR) adalah kalau (P) untuk membuat sebuah elemen sebuah paragraph sedangkan (BR) untuk berpindah ke baris selanjutnya
 
-3.perbedaan atribut title dan alt pada tag <img> adalah kalau atribut tittle itu untuk menentukan informasi tambahan tentang elemen sedangkan atribut alt untuk menentukan teks alternatif yang akan ditampilkan saat foto tidak dapat ditampilkan 
+3.perbedaan atribut title dan alt pada tag (IMG) adalah kalau atribut tittle itu untuk menentukan informasi tambahan tentang elemen sedangkan atribut alt untuk menentukan teks alternatif yang akan ditampilkan saat foto tidak dapat ditampilkan 
 
 4.agar foto proposional width dan height sebenernya harus diisi 2 2nya karena untuk mengimbangi posisi foto yang akan digunakan seperti 1 ini![Screenshot_7![Screenshot_8](https://user-images.githubusercontent.com/81457697/112717148-4e92d000-8f1d-11eb-8a02-993addc0f5e3.png)
 ](https://user-images.githubusercontent.com/81457697/112717142-4470d180-8f1d-11eb-9cd4-d03b4dbbf187.png)
