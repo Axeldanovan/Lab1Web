@@ -5,7 +5,7 @@
 ![Screenshot_14](https://user-images.githubusercontent.com/81457697/112711193-18dbf000-8ef9-11eb-982f-1660b51c99f2.png)
 1.iya ada kesalahan dan itu berwarna merah jadi tulisan yang ada di HTML tidak akan berubah
 
-2.perbedaan <p> dan <br> adalah kalau <p> untuk membuat sebuah elemen sebuah paragraph sedangkan <br> untuk berpindah ke baris selanjutnya
+2.perbedaan (<p>) dan <br> adalah kalau <p> untuk membuat sebuah elemen sebuah paragraph sedangkan <br> untuk berpindah ke baris selanjutnya
 
 3.perbedaan atribut title dan alt pada tag <img> adalah kalau atribut tittle itu untuk menentukan informasi tambahan tentang elemen sedangkan atribut alt untuk menentukan teks alternatif yang akan ditampilkan saat foto tidak dapat ditampilkan 
 
